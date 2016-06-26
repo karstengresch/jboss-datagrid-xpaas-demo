@@ -11,7 +11,7 @@ This is my tested configuration:
 * Either Red Hat subscription allowing accessing documentation or registration at https://developers.redhat.com
 
 # Installation
-1. Download the CDK (version 2.1) and the according [Vagrant box](https://developers.redhat.com/download-manager/file/rhel-cdk-kubernetes-7.2-25.x86_64.vagrant-libvirt.box).
+1. Download the [CDK (version 2.1)](https://developers.redhat.com/download-manager/file/cdk-2.1.0.zip) and the according [Vagrant box](https://developers.redhat.com/download-manager/file/rhel-cdk-kubernetes-7.2-25.x86_64.vagrant-libvirt.box).
 2. Follow the instructions in the [installation guide](https://access.redhat.com/documentation/en/red-hat-enterprise-linux-atomic-host/version-7/container-development-kit-installation-guide/#installing_red_hat_container_development_kit_on_fedora_or_red_hat_enterprise_linux).
 
     
