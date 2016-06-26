@@ -4,9 +4,9 @@ This shall help you playing around w/ OpenShift Dedicated on your computer. I ma
 # Prerequisites
 This is my tested configuration:
 
-    * [Fedora 24](https://getfedora.org/en/workstation/)
-    * libvirt (from distribution)
-    * Vagrant 1.8.1 (from distribution) 
-    * [Red Hat Container Development Kit 2.1](http://developers.redhat.com/products/cdk/download/)
+* [Fedora 24](https://getfedora.org/en/workstation/)
+* libvirt (from distribution)
+* Vagrant 1.8.1 (from distribution) 
+* [Red Hat Container Development Kit 2.1](http://developers.redhat.com/products/cdk/download/)
     
 
